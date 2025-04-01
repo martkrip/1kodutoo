@@ -1,0 +1,23 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+    height: 98vh;
+    flex-wrap: wrap;
+}
+
+#container>div{
+    font-size: 700%;
+}
+
+#date{
+    display: flex;
+    justify-content: center;
+    min-width: 100%;
+}
