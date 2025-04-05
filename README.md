@@ -25,7 +25,7 @@ Rakenduse lähtekood on saadaval (https://github.com/martkrip/1kodutoo).
 
 ## Kasutatud ChatGPT promptid
 
-1. (Eeldusega, et kõik failid olid copy ja pastitud ChatGPT'sse) I need these features done:
+1. (Eeldusega, et kõik failid teisest tunnist (see sama clock) olid copy ja pastitud ChatGPT'sse) I need these features done:
 Electronic clock
 Written in JavaScript
 HTML is used
